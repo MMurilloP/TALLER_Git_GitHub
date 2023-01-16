@@ -1,5 +1,6 @@
-//Linea conflictiva jejejejeje >_<
 const datos = [];
+
+
 
 const boton = document.querySelector('#boton');
 
