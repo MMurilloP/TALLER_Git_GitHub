@@ -1,4 +1,4 @@
-manuel,const datos = [];
+sadasdaconasdasdst datos = [];
 
 const boton = document.querySelector('#boton');
 
