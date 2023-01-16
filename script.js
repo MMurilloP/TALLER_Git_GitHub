@@ -1,4 +1,5 @@
-manuel,const datos = [];
+//Linea conflictiva jejejejeje >_<
+const datos = [];
 
 const boton = document.querySelector('#boton');
 
@@ -13,7 +14,7 @@ boton.addEventListener('click', () => {
   }
 
   if (pass.length < 4) {
-    alert("La contraseña debe contener al menos 5 carcateres")
+    alert("La contraseña debe contener al menos 5 caracteres")
     validated = false;
   }
 
