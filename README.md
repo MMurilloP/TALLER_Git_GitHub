@@ -10,7 +10,7 @@ _Este proyecto ha sido creado con la finalidad de trabajar en equipo para poner 
 
 -El usuario ingresará los datos en el formulario para suscribirse a un Boletín informativo
 
-[view]()
+[view](https://github.com/MMurilloP/TALLER_Git_GitHub/blob/develop/assets/view.png)
 
 ## Gracias por llegar hasta acá🎁
 
