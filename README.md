@@ -10,6 +10,7 @@ _Este proyecto ha sido creado con la finalidad de trabajar en equipo para poner 
 
 -El usuario ingresará los datos en el formulario para suscribirse a un Boletín informativo
 
+[view]()
 
 ## Gracias por llegar hasta acá🎁
 
