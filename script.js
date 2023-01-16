@@ -1,4 +1,4 @@
-manuel,const datos = [];
+const datos = [44]; 
 
 const boton = document.querySelector('#boton');
 
