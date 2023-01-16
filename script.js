@@ -1,10 +1,5 @@
 
-
-
 const datos = [];
-
-
-
 
 const boton = document.querySelector('#boton');
 
